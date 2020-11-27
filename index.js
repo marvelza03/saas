@@ -169,4 +169,5 @@ bot.on('messageUpdate', function (oldMessage, newMessage) {
 });
 
 
-bot.login(process.782002178389966848;
+bot.login(process.NzgyMDAyMTc4Mzg5OTY2ODQ4.X8F2SA.4Yr5pILAqwyzRVvH7BEZpLlnQQw
+;
