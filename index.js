@@ -169,4 +169,4 @@ bot.on('messageUpdate', function (oldMessage, newMessage) {
 });
 
 
-bot.login(process.env.bot_token);
+bot.login(process.782002178389966848;
